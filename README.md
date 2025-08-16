@@ -1,11 +1,10 @@
 <!-- Header Image -->
 <img src="https://github.com/user-attachments/assets/52ac4b5f-3dea-439e-86f9-1a383508384a" alt="banner" width="100%" />
 
-<h2 align="center">
-  <span style="color:#39FF14;">Hello, error</span> 
-  <span style="color:#FF073A;">404</span> 
-  <span style="color:#39FF14;">: World not found.</span>
-</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.svg" alt="Hello error 404: World not found">
+</p>
+
 
 
 
