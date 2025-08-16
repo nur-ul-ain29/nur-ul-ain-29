@@ -1,13 +1,11 @@
 <!-- Header Image -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=4000&pause=1200&color=A020F0&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Breaking+generational+curses+%7C+Data+Engineering+%26+Cloud+Enthusiast+%F0%9F%8C%A9" alt="animated tagline" />
-</h3>
-
-<img src="https://github.com/user-attachments/assets/52ac4b5f-3dea-439e-86f9-1a383508384a" alt="banner" width="100%" />
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hello%2C+error+404%3A+World+not+found." alt="Typing SVG" />
 </p>
+
+<img src="https://github.com/user-attachments/assets/52ac4b5f-3dea-439e-86f9-1a383508384a" alt="banner" width="100%" />
+
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=4000&pause=1200&color=A020F0&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Breaking+generational+curses+%7C+Data+Engineering+%26+Cloud+Enthusiast+%F0%9F%8C%A9" alt="animated tagline" />
