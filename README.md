@@ -1,7 +1,11 @@
 <!-- Header Image -->
 <img src="https://github.com/user-attachments/assets/52ac4b5f-3dea-439e-86f9-1a383508384a" alt="banner" width="100%" />
 
-<h1 align="center">Hello, error 404: World not found.</h1>
+<h2 align="center">
+  <span style="color:#39FF14; font-family: 'Courier New', monospace; font-size: 26px;">
+    Hello, error 404: World not found.
+  </span>
+</h2>
 <h3 align="center">🚀 Breaking generational curses | Data Engineering & Cloud Enthusiast 🌩️</h3>
 
 ---
