@@ -7,7 +7,15 @@
 ---
 
 
-### Currently learning web development, exploring cybersecurity, and passionate about data-driven fields like data engineering.
+### 🚀 About Me
+
+🌐 Currently learning Web Development
+
+🛡️ Exploring Cybersecurity
+
+📊 Passionate about Data Engineering & Data-driven fields
+
+🔧 Building a strong foundation in tech to create scalable & secure solutions
 
 ---
 
