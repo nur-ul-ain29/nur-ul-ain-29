@@ -1,5 +1,5 @@
 <!-- Header Image -->
-<p align ="center><img src="https://github.com/user-attachments/assets/52ac4b5f-3dea-439e-86f9-1a383508384a" alt="banner" width="100%" /></p>
+<img src="https://github.com/user-attachments/assets/52ac4b5f-3dea-439e-86f9-1a383508384a" alt="banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Noor</h1>
 <h3 align="center">🚀 Breaking generational curses | Data Engineering & Cloud Enthusiast 🌩️</h3>
