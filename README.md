@@ -20,14 +20,14 @@ I'm Noor — a curious learner exploring different areas of tech.
 ---
 
 ## 📊 GitHub Stats
-![Noor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Noor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nur-ul-ain29&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nur-ul-ain29&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=nur-ul-ain29&theme=radical&hide_border=true)
 
 ---
 
