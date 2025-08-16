@@ -1,11 +1,10 @@
 <!-- Header Image -->
 <img src="https://github.com/user-attachments/assets/52ac4b5f-3dea-439e-86f9-1a383508384a" alt="banner" width="100%" />
 
-<h2 align="center">
-  <span style="color:#39FF14; font-family: 'Courier New', monospace; font-size: 26px;">
-    Hello, error 404: World not found.
-  </span>
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hello%2C+error+404%3A+World+not+found." alt="Typing SVG" />
+</p>
+
 <h3 align="center">🚀 Breaking generational curses | Data Engineering & Cloud Enthusiast 🌩️</h3>
 
 ---
