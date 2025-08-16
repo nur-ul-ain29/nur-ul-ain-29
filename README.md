@@ -1,9 +1,10 @@
 <!-- Header Image -->
 <img src="https://github.com/user-attachments/assets/52ac4b5f-3dea-439e-86f9-1a383508384a" alt="banner" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hello%2C+error+404%3A+World+not+found." alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=25&color=00FF41&center=true&vCenter=true&width=500&lines=Hello,+Noor+Here;System+Booting...;Access+Granted" />
+</h1>
+
 
 <h3 align="center">🚀 Breaking generational curses | Data Engineering & Cloud Enthusiast 🌩️</h3>
 
