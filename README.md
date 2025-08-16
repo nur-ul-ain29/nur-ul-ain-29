@@ -2,9 +2,8 @@
 <img src="https://github.com/user-attachments/assets/52ac4b5f-3dea-439e-86f9-1a383508384a" alt="banner" width="100%" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00FFFF&center=true&vCenter=true&width=600&lines=Hello,+error;404;World+not+found." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=FF00FF&center=true&vCenter=true&width=550&lines=⚡+Noor+Entering+the+Matrix;💻+Building+Future+One+Line+at+a+Time" />
 </h1>
-
 
 
 <h3 align="center">🚀 Breaking generational curses | Data Engineering & Cloud Enthusiast 🌩️</h3>
