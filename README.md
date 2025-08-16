@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nur-ul-ain29/nur-ul-ain29/main/banner.png" alt="Banner" />
+![Free Stock Photos, PNGs, Templates   Mockups _ rawpixel](https://github.com/user-attachments/assets/594ecaf2-b49f-4ff3-aafa-ddc1fd63169e)
 
 # Hi, I'm Noor 👋
 
