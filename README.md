@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=900&color=FFD60A&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Breaking+generational+curses+%7C+Data+Engineering+%26+Cloud+Enthusiast+%F0%9F%8C%A9" alt="animated tagline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=4000&pause=1200&color=A020F0&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Breaking+generational+curses+%7C+Data+Engineering+%26+Cloud+Enthusiast+%F0%9F%8C%A9" alt="animated tagline" />
 </h3>
 
 
